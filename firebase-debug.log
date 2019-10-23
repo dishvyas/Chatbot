@@ -1,0 +1,14 @@
+[debug] [2019-10-21T05:59:40.121Z] ----------------------------------------------------------------------
+[debug] [2019-10-21T05:59:40.123Z] Command:       /usr/bin/node /usr/local/bin/firebase deploy
+[debug] [2019-10-21T05:59:40.123Z] CLI Version:   7.6.1
+[debug] [2019-10-21T05:59:40.123Z] Platform:      linux
+[debug] [2019-10-21T05:59:40.123Z] Node Version:  v8.10.0
+[debug] [2019-10-21T05:59:40.123Z] Time:          Mon Oct 21 2019 11:29:40 GMT+0530 (IST)
+[debug] [2019-10-21T05:59:40.123Z] ----------------------------------------------------------------------
+[debug] [2019-10-21T05:59:40.123Z] 
+[debug] [2019-10-21T05:59:40.127Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2019-10-21T05:59:40.127Z] > authorizing via signed-in user
+[debug] [2019-10-21T05:59:40.127Z] [iam] checking project yoyopizza-biwlfr for permissions ["cloudfunctions.functions.create","cloudfunctions.functions.delete","cloudfunctions.functions.get","cloudfunctions.functions.list","cloudfunctions.functions.update","cloudfunctions.operations.get","firebase.projects.get"]
+[debug] [2019-10-21T05:59:40.129Z] >>> HTTP REQUEST POST https://cloudresourcemanager.googleapis.com/v1/projects/yoyopizza-biwlfr:testIamPermissions  
+
+[debug] [2019-10-21T05:59:43.337Z] <<< HTTP RESPONSE 200
